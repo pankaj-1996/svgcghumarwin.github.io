@@ -1,0 +1,29 @@
+ .container {
+  position: relative;
+  width:100%;
+  }
+
+.topright {
+  position: absolute;
+  top: 8px;
+  right: 16px;
+  font-size: 18px;
+
+}
+.img-fluid { 
+ width: 100%;
+  height: auto;
+
+
+}
+.alignfull {
+    margin-left: calc(50% - 50vw);
+    margin-right: calc(50% - 50vw);
+    max-width: 1000%;
+    width: auto;
+}
+.copyright {
+  text-align : center;
+  padding-top:30px;
+}
+
